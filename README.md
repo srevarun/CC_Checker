@@ -5,7 +5,7 @@ This Python based program checks your given Credit Card List and returns if it i
 
 # How to Use the Checker :-
 
- - Load the list.txt text will your cards.
+ - Load the list.txt text with your cards.
  - Change the variable in the program to the number of cards you uploaded in the list.txt (Default value if 100)
  - Whenever you are replacing the list.txt , make the content of num.txt to 0
  - Add the proxies to proxies.txt
